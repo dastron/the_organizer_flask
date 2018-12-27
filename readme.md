@@ -58,8 +58,3 @@ Setup and Run via gunicorn run by supervisor.
 Updated the roles, added the custom SSH port 9200
 
 
-#### Access:
-
-ssh -i ~/.ssh/my-ssh-key grader@104.198.213.209 -p 9200
-
-
